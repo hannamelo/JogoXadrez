@@ -19,7 +19,7 @@ namespace xadrez_console
                 {
                     try
                     {
-                        TESTEEEEEEEEEEE
+                        Testando Git
                         Console.Clear();
                         Tela.imprimirTabuleiro(partida.tab);
                         Console.WriteLine();
